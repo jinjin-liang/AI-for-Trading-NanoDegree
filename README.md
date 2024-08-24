@@ -6,7 +6,7 @@ Course Link: https://www.udacity.com/enrollment/nd880
 
 Certificate Link: https://confirm.udacity.com/UPZSPWCX
 
-## Built 5 Projects
+## Built 6 Projects
 
 ### Trading with Momentum
 https://github.com/jinjin-liang/nd880-project1-TradingwithMomentum
@@ -26,5 +26,8 @@ https://github.com/jinjin-liang/nd880-project5-NLP-on-Financial-Statements
 ### Sentiment Analysis with Neural Networks
 https://github.com/jinjin-liang/nd880-project6-Sentiment-Analysis-with-Neural-Networks
 
-### Backtesting
-https://github.com/jinjin-liang/nd880-project8-Backtesting
+## Technical Skills
+ - Quantitative Trading Strategies: momentum trading, breakout strategies, and pairs trading.
+ - Advanced Quantitative Methods: time series modeling, volatility analysis, regression and advanced statistical tests to trading signals.
+ - Alpha and Risk Factor Analysis
+ - Natural Language Processing (NLP)：Building and training neural networks, including RNNs and LSTMs, for sentiment analysis and trading signal generation.
